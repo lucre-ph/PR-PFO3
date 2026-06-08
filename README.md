@@ -51,3 +51,8 @@ Abrí una terminal en la raíz del proyecto y ejecutá el archivo del cliente.
 python cliente.py
 
 ```
+
+### Diagrama
+
+<img width="927" height="822" alt="image" src="https://github.com/user-attachments/assets/d7c7b60e-6166-4046-b3eb-6642adb0e9c1" />
+

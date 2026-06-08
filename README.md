@@ -4,7 +4,7 @@ Este proyecto consiste en un **Sistema Distribuido de Gestión de Tareas** basad
 
 ---
 
-## 🚀 Arquitectura y Funcionamiento Básico
+## Arquitectura y Funcionamiento Básico
 
 El sistema opera bajo un modelo de comunicación síncrona por flujo de bytes a través de Sockets TCP, utilizando un protocolo de aplicación basado en tramas de texto formateadas en **JSON** finalizadas por un salto de línea (`\n`).
 
@@ -22,7 +22,7 @@ El sistema opera bajo un modelo de comunicación síncrona por flujo de bytes a 
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 El sistema fue desarrollado utilizando únicamente la **librería estándar de Python 3**, por lo que **no requiere la instalación de dependencias externas**.
 
@@ -31,7 +31,7 @@ El sistema fue desarrollado utilizando únicamente la **librería estándar de P
 
 ---
 
-## 💻 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Para desplegar y probar el sistema localmente, seguí estos pasos desde tu terminal:
 
